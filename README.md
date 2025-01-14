@@ -1,7 +1,9 @@
 
 # Superelastic SMA constitutive model (Brinson)
 
-This repo presents a constitutive model for Super elastic Shape memory alloys. Now that you are here, you probably know what are SMAs, so i will introduce them briefely. 
+This repo presents a constitutive model for Super elastic Shape memory alloys. This repository has directly been used in [my article] (https://doi.org/10.1177/107754632412). I would much appreciate any citations of my work in your papers if you have used this repo in your project.
+
+Now that you are here, you probably know what are SMAs, so i will introduce them briefely. 
 
 Shape memory alloys are spacial kind of material that have two unique properties: 
 1) Shape memory effect: This effect causes the material to recover plastic deformations after its heated to a certain temprature
